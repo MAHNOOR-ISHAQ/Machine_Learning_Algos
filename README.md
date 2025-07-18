@@ -63,7 +63,7 @@ By implementing these algorithms from scratch, you will:
 ---
 
 
-## 🙋‍♀️ Author
+# Author
 
 **Mahnoor Ishaq**  
 Beginner ML Developer | Learning by Building from Scratch 💻  
